@@ -1,2 +1,3 @@
-# hello-world
-tomcat
+# maven-project
+
+Simple Maven Project
